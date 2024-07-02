@@ -5,4 +5,4 @@
 ### How to reach me
 - Email: [firoznur5@gmail.com](mailto:firoznur5@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-firoz-mahmud-nur&" alt="md-firoz-mahmud-nur" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-firoz-mahmud-nur&" alt="md-firoz-mahmud-nur"/></p>
