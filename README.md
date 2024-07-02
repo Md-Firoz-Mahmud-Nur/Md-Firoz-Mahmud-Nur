@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="800" height="400" src="https://i.ibb.co/6Z4CyHJ/360-F-308823955-XTMT8-TNKm-OYn-PEwm-Emfnskg-Nq-Qv3h-QE5.jpg" alt="">
+</p>
+
 <h1 align="center">Hi , I'm Md. Firoz Mahmud Nur</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <h4 align="center">You can ask me about **HTML, CSS, React, JavaScript**</h3>
