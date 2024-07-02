@@ -26,7 +26,7 @@
 <h3 align="center">Backend </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Js" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node Js" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=333" alt="Node Js" />
 
 </p>
 <h3 align="center">Databases</h3>
