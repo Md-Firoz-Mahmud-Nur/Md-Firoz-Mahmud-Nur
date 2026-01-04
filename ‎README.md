@@ -1,6 +1,7 @@
 <!-- Banner / Hero -->
+
 <p align="center">
-  <img width="800" height="400" src="https://i.ibb.co/6Z4CyHJ/360-F-308823955-XTMT8-TNKm-OYn-PEwm-Emfnskg-Nq-Qv3h-QE5.jpg" alt="Md. Firoz Mahmud Nur - Full Stack Developer Banner">
+  <img width="800" height="400" src="https://i.ibb.co.com/NgT2rKmP/github-banner.jpg" alt="Md. Firoz Mahmud Nur - Full Stack Developer Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Firoz Mahmud Nur</h1>
