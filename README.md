@@ -91,12 +91,15 @@
 ## 🚀 Featured Projects
 
 <!-- Replace these with your actual pinned / best projects -->
+
 - 🧾 [Trip Coach](https://0337-trip-coach-frontend-assignment.vercel.app/) – A Complete Local Tour Guide.
 - 💳 [Next Parcel](https://0285x-assignment-06-l2-m05-m-041-a.vercel.app/) – Send And Receive Parcel.
 
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-firoz-mahmud-nur&" alt="md-firoz-mahmud-nur"/></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-firoz-mahmud-nur&theme=react" alt="GitHub Streak" />
