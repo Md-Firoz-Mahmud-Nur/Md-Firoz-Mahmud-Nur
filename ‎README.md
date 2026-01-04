@@ -13,8 +13,8 @@
   <a href="https://wa.me/8801797626050?text=Hi%20Md.%20Firoz%20Mahmud%20Nur,%20I%20came%20across%20your%20GitHub%20Profile%20and%20would%20like%20to%20connect%20with%20you." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://github.com/md-firoz-mahmud-nur" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-md--firoz--mahmud--nur-black?style=flat-square&logo=github" />
+   <a href="https://www.linkedin.com/in/md-firoz-mahmud-nur/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-md--firoz--mahmud--nur-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -90,11 +90,8 @@
 ## 🚀 Featured Projects
 
 <!-- Replace these with your actual pinned / best projects -->
-- 🧾 **Project Name 1 (MERN / Next.js)** – Short description of what it does and how it helps users.
-- 💳 **Project Name 2 (PostgreSQL + Express)** – Short description, e.g. API / dashboard / admin panel.
-- 📊 **Project Name 3 (Real‑time / Firebase)** – Short description, e.g. real‑time updates or authentication.
-
-> Link them like: `[Project Name](https://github.com/your-username/project-name)` and add live demo links if available.
+- 🧾 [Trip Coach](https://0337-trip-coach-frontend-assignment.vercel.app/) – A Complete Local Tour Guide.
+- 💳 [Next Parcel](https://0285x-assignment-06-l2-m05-m-041-a.vercel.app/) – Send And Receive Parcel.
 
 ---
 
